@@ -31,6 +31,14 @@ angular
         templateUrl: 'views/blogPost.html',
         controller: 'BlogPostController'
       })
+      .when('/login',{
+        templateUrl: 'views/login.html',
+        controller: 'LoginCtrl'
+      })
+      .when('/logout',{
+        templateUrl: 'views/login.html',
+        controller: 'LogoutCtrl'
+      })
       .when('/new-post', {
         templateUrl: 'views/new-post.html',
         controller: 'NewPostCtrl'

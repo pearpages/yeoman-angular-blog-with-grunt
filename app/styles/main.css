@@ -93,3 +93,44 @@ body{
   font-weight:bold;
   font-size:16pt;
 }
+
+/*login page*/
+
+.blog-login-wrapper{
+  float:left;
+  background: #e0e0e0;
+  border-radius: 6px;
+  border: darkgreen solid 1px;
+}
+
+.blog-login-label{
+  float:left;
+  width: 70%;
+  margin: 0 0 0 15%;
+  text-align:center;
+}
+
+.blog-login-element{
+  float:left;
+  width: 70%;
+  margin: 0 0 0 15%;
+  padding: 1% 0 0 0;
+  text-align:center;
+}
+
+.blog-login-button{
+  float:left;
+  width:100%;
+  margin: 0;
+  padding: 5% 0 0 0;
+  text-align: center;
+}
+
+.blog-login-error{
+  float:left;
+  width:100%;
+  margin:0;
+  padding:0;
+  text-align:cener;
+  color:red;
+}
