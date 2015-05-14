@@ -1,7 +1,7 @@
 body{
   font-family:arial;
   font-size:12pt;
-  color:#2a6496;
+  color:#000;
 }
 
 .post-wrapper{
@@ -70,6 +70,16 @@ body{
   width: 50%;
   margin: 2% 0 2% 25%;
   padding: 1%;
+  border-radius: 6px;
+  border: darkgreen solid 1px;
+}
+
+.blog-entry-comments{
+  float:left;
+  width: 96%;
+  margin: 2% 0 2% 2%;
+  padding: 1%;
+  background: #f5e79e;
   border-radius: 6px;
   border: darkgreen solid 1px;
 }
