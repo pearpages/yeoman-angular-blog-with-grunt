@@ -1,4 +1,4 @@
-# yo-ang-blog
+# yeoman-angular-blog-with-grunt
 
 ## Important Comments
 
